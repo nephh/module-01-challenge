@@ -42,7 +42,7 @@ N/A
 
 ## Usage
 
-See commented lines to see the specific changes. Website is hosted [here.](nephh.github.io/module-01-challenge)
+See commented lines in the HTML and CSS files to see the specific changes. Website is hosted [here.](nephh.github.io/module-01-challenge)
 
 ## Credits
 
