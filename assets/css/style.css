@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* No need for a header class, changed to just use the header HTML tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+ /* Changed to unique ID */
 #hero {
     height: 800px;
     width: 100%;
@@ -86,6 +87,7 @@ p {
     background-color: #2589bd;
 }
 
+/* benefits-background and sections were created to consolidate instead of having separate classes that were the same */
 .benefits-background {
     margin-bottom: 32px;
     color: #ffffff;
@@ -121,6 +123,7 @@ p {
     font-size: 36px;
 }
 
+/* Same as the header, changed from class to HTML tag */
 footer {
     padding: 30px;
     clear: both;
