@@ -46,7 +46,7 @@ See commented lines in the HTML and CSS files to see the specific changes. Websi
 
 ### Website Screenshot
 
-![Alt Text](./assets/images/01-html-css-git-homework-demo.png "website screenshot")
+![screenshot](./assets/images/01-html-css-git-homework-demo.png "website screenshot")
 
 ## Credits
 
