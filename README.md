@@ -44,6 +44,10 @@ N/A
 
 See commented lines in the HTML and CSS files to see the specific changes. Website is hosted [here.](https://nephh.github.io/module-01-challenge)
 
+### Website Screenshot
+
+![Alt Text](./assets/images/01-html-css-git-homework-demo.png "website screenshot")
+
 ## Credits
 
 N/A
