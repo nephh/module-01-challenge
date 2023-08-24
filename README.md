@@ -1,6 +1,6 @@
 # Module 01 Challenge
 
-This repository contains the HTML code for the Horiseon Social Solution Services website, and has been modified by myself to have better readability and better practices.
+This repository contains the HTML and CSS code for the Horiseon Social Solution Services website, and has been modified by myself to have better readability and better practices.
 
 ## Table of Contents
 
