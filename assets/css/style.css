@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* No need for a header class, changed to just use the header HTML tag */
+/* No need for a header class, changed to just use the header HTML tag. Font is specified to support multiple browsers. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,6 +37,7 @@ header div ul {
     list-style-type: none;
 }
 
+/* Display: inline-block makes sure the header list is displayed inline and will not stack on each other. */
 header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
- /* Changed to unique ID */
+ /* Changed to unique ID. This is an example of linking and styling an image all in CSS. */
 #hero {
     height: 800px;
     width: 100%;
