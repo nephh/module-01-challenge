@@ -1,3 +1,4 @@
+/* Resetting default box-sizing, padding, and margin for all elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -21,6 +22,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* Styling for a specific part of the main header (with id="seo") */
 header h1 #seo {
     color: #d9dcd6;
 }
@@ -33,6 +35,7 @@ header div {
     font-size: 20px;
 }
 
+/* Styling for the unordered list (ul) within the header div, removing the bullet points. */
 header div ul {
     list-style-type: none;
 }
